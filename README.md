@@ -1,4 +1,4 @@
-pixel-art
+# pixel-art #
 Created by Michael A. Valentin
 Project: Pixel Art
 Date Started: 04:21-18
